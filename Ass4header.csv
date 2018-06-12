@@ -1,0 +1,1 @@
+DayOfMonth,DayOfWeek,CarrierCode,TailNum (for plane identification),FlightNum,OriginAirportID,OriginAirport,DestinationAirportID,DestinationAirport,ScheduledDepartureTime,ActualDepartureTime,DepartureDelay,ScheduledArrivalTime,ActualArrivalTime,ArrivalDelay,ElapsedTime,Distance
